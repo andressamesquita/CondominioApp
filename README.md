@@ -2,7 +2,7 @@
 
 Projeto da disciplina de Programação Corporativa
 
-##### Equipe
+#### Equipe
 
 * Andressa Mesquita
 * Juliana Marques
